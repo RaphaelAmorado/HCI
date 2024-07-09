@@ -6,7 +6,8 @@ DAY'S is an all-inclusive personal assistant app that manages chores, routines, 
 
 Prototype https://www.figma.com/proto/3Te7Y5K7oPmWgjUi2sItUh/UI-P1?node-id=1-265&t=K2d4Ucn8askRcmSc-1
 
-Cousera Certificate: https://malayancollegesmindanaoo365-my.sharepoint.com/:f:/g/personal/ramorado_mcm_edu_ph/EmkpkCsAxupLqPob7PEtCYIBRFOIlckYvE4rOUbALJOc4Q?e=TbZ11r
+Cousera Certificate: ![Uploading image.png…]()
+
 
 More Info(Part 1-4): https://malayancollegesmindanaoo365-my.sharepoint.com/:f:/g/personal/ramorado_mcm_edu_ph/Eu65JOJZTFFFj8b0avLTkGUBDnrJglTnrO2OocnDw5jznw?e=kN7UJO
 
